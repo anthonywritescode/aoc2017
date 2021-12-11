@@ -135,4 +135,7 @@ fbidepghmjklcnoa
 + python day19/part1.py day19/input.txt
 SXPZDFJNRL
 > 11119 μs
++ python day19/part2.py day19/input.txt
+18126
+> 9712 μs
 ```
