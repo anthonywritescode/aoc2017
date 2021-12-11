@@ -114,4 +114,7 @@ ykpsek
 + python day15/part2.py day15/input.txt
 290
 > 24481 ms
++ python day16/part1.py day16/input.txt
+hmefajngplkidocb
+> 62156 μs
 ```
