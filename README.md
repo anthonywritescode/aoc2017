@@ -75,4 +75,7 @@ ykpsek
 + python day09/part1.py day09/input.txt
 13154
 > 6649 μs
++ python day09/part2.py day09/input.txt
+6369
+> 5609 μs
 ```
