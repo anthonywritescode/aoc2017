@@ -111,4 +111,7 @@ ykpsek
 + python day15/part1.py day15/input.txt
 619
 > 31194 ms
++ python day15/part2.py day15/input.txt
+290
+> 24481 ms
 ```
