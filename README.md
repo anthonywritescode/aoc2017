@@ -102,4 +102,7 @@ ykpsek
 + python day13/part2.py day13/input.txt
 3921270
 > 5742 ms (brute force)
++ python day14/part1.py day14/input.txt
+8316
+> 221 ms
 ```
