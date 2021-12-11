@@ -120,4 +120,7 @@ hmefajngplkidocb
 + python day16/part2.py day16/input.txt
 fbidepghmjklcnoa
 > 4074 ms
++ python day17/part1.py day17/input.txt
+355
+> 1277 μs
 ```
