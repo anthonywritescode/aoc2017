@@ -14,12 +14,9 @@ def compute(s: str) -> int:
     s = s.strip()
 
     total = 0
-    # special case last digit
-    if s[-1] == s[0]:
-        total += int(s[-1])
 
-    for i, c in enumerate(s[:-1]):
-        if s[i + 1] == c:
+    for i, c in enumerate(s):
+        if s[(i + 1) % len(s)] == c:
             total += int(c)
 
     return total
