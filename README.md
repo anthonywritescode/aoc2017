@@ -138,4 +138,7 @@ SXPZDFJNRL
 + python day19/part2.py day19/input.txt
 18126
 > 9712 μs
++ python day20/part1.py day20/input.txt
+243
+> 28414 μs
 ```
