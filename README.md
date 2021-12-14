@@ -162,4 +162,7 @@ SXPZDFJNRL
 + python day23/part2.py day23/input.txt
 909
 > 6776 μs
++ python day24/part1.py day24/input.txt
+1511
+> 7193 ms
 ```
